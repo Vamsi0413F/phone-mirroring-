@@ -1,0 +1,7 @@
+.build/
+build/
+DerivedData/
+.swiftpm/
+*.profraw
+*.profdata
+.DS_Store
